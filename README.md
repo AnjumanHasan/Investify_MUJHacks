@@ -3,6 +3,10 @@ Project built at MUJ Hacks 7.0
 
 [Link to Figma design](https://www.figma.com/file/yZK0G3sWggQnWhplnJ3h1a/investify?node-id=0%3A1)
 
+
+[Link to Video Demo](https://drive.google.com/drive/folders/1s5XpdM6nHXt1MY4o6dKpHdVK0E44QIeh?usp=sharing)
+
+
 ![investo_mockup](https://github.com/AnjumanHasan/Investify_MUJHacks/blob/master/investify.png)
 
 To create a platform where the persuasion of equity and capital benefits both aspiring entrepreneurs and investors.
