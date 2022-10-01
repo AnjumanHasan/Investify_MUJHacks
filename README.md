@@ -1,7 +1,7 @@
 # Investify
 Project built at MUJ Hacks 7.0 
 
-[Link to Figma design](https://www.figma.com/file/0yI5iRkHXfYuSojZbwRobm/investify?node-id=0%3A1)
+[Link to Figma design](https://www.figma.com/file/yZK0G3sWggQnWhplnJ3h1a/investify?node-id=0%3A1)
 
 ![investo_mockup](https://github.com/AnjumanHasan/Investify_MUJHacks/blob/master/investify.png)
 
