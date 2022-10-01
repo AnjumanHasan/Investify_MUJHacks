@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Investify">
         <activity
+            android:name=".HangOn"
+            android:exported="false" />
+        <activity
             android:name=".login"
             android:exported="false" />
         <activity
