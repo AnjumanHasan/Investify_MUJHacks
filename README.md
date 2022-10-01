@@ -3,7 +3,7 @@ Project built at MUJ Hacks 7.0
 
 [Link to Figma design](https://www.figma.com/file/0yI5iRkHXfYuSojZbwRobm/investify?node-id=0%3A1)
 
-![investo_mockup](https://github.com/AnjumanHasan/Investo/blob/master/investify.png)
+![investo_mockup](https://github.com/AnjumanHasan/Investify/blob/master/investify.png)
 
 To create a platform where the persuasion of equity and capital benefits both aspiring entrepreneurs and investors.
 India is a budding hub of businesses, all big and small. Though big businesses are thriving and scaling, there are several other businesses that are still fighting to find their place in the market, struggling to connect with investors and raise investments especially during the tough times of the pandemic.
